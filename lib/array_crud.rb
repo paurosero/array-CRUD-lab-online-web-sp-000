@@ -19,7 +19,6 @@ end
 def remove_element_from_end_of_array(array)
   array = ["w", "x", "y", "z", "arrays!"]
   array.pop
-  puts arrays!
 end
 
 def remove_element_from_start_of_array(array)
